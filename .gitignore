@@ -1,3 +1,9 @@
+# Sensitive data - never push
+data/raw/
+*.csv
+*.xlsx
+*.xls
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
